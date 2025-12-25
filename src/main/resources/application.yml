@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-ai-mcp-server
+
+  ai:
+    mcp:
+      server:
+        name: spring-ai-mcp-server
+        version: 0.0.1

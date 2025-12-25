@@ -1,0 +1,14 @@
+spring:
+  ai:
+    mcp:
+      server:
+        enabled: true
+        type: sync
+        instructions: "This server provides the session catalog data for sprint I/O 2025"
+        capabilities:
+          completion: false
+          prompt: false
+          resource: false
+          tool: true
+server:
+  port: 8085
