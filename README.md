@@ -99,9 +99,15 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ---
 
-## 📄 License
+---
 
-This project is licensed under the Vicky Ajmera License.
+## 👨‍💻 About the Author
+
+I am a Backend Developer passionate about the intersection of Enterprise Java and Artificial Intelligence. This project serves as a portfolio of my ability to integrate complex AI workflows into robust Spring Boot environments.
+
+**Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/vickyajmera120/)
+- [GitHub](https://github.com/vickyajmera120)
 
 ---
 
